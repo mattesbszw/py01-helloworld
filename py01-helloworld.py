@@ -1,4 +1,3 @@
-
 # greetings message
 print("*** Hello World Demo Program ***")
 
