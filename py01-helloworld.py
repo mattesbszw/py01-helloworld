@@ -11,4 +11,4 @@ for i in range(0, 10):
     print("Hello World", str(i))
 
 # end message
-print("*** End World Demo Program ***")
+print("*** End Hello World Demo Program ***")
